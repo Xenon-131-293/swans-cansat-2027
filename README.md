@@ -1,1 +1,1 @@
-# swans-cansat-2026
+# Swans AeroLab Cansat 2026-27
